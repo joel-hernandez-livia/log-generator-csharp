@@ -1,0 +1,14 @@
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\bin\Debug\net8.0\LogConsole.exe
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\bin\Debug\net8.0\LogConsole.deps.json
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\bin\Debug\net8.0\LogConsole.runtimeconfig.json
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\bin\Debug\net8.0\LogConsole.dll
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\bin\Debug\net8.0\LogConsole.pdb
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.AssemblyInfoInputs.cache
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.AssemblyInfo.cs
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.csproj.CoreCompileInputs.cache
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.dll
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\refint\LogConsole.dll
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.pdb
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.genruntimeconfig.cache
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\ref\LogConsole.dll
