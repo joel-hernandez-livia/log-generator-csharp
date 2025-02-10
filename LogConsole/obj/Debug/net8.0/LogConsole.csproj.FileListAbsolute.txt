@@ -12,3 +12,4 @@ C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\refint\LogC
 C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.pdb
 C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.genruntimeconfig.cache
 C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\ref\LogConsole.dll
+C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\obj\Debug\net8.0\LogConsole.sourcelink.json

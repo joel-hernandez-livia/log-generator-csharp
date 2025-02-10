@@ -1,18 +1,26 @@
-﻿namespace LogConsole
+﻿using LogConsole.Storage;
+
+namespace LogConsole
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Un programa\n");
-            //Log log = new Log(@"C:\Users\JOEL\source\repos\LogConsoleSol\LogConsole\Log");
-            //string relativePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Log");
-            string relativePath = @".\Log";
-            Log log = new Log(relativePath);
-            log.Add("Prueba 2");
+
+            string logPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"..", @"Logs");
+            ILogStorage fileStorage = new FileLogStorage(logPath);
+            Logger logger = new Logger(fileStorage);
+
+            logger.LogInfo("El sistema inició correctamente.");
+            logger.LogWarning("Se detectó una posible inconsistencia.");
+            logger.LogError("Error al conectarse a la base de datos.");
+
+            Console.WriteLine("Logs generados en: " + logPath);
+            Console.ReadKey();
 
             Console.WriteLine("\nPresiona cualquier tecla...");
             Console.ReadKey();
+
         }
     }
 }
